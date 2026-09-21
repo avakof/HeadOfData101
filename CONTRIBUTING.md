@@ -1,8 +1,8 @@
-﻿# AGENTS Rules For This Repository
+﻿# Contributing
 
 ## Scope
 
-These rules apply to AI-assisted edits in this teaching repository.
+These rules apply to edits in this teaching repository.
 
 ## Core Rules
 
